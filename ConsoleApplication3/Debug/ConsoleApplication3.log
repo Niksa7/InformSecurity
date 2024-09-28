@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+D:\Documents\GitHub\InformSecurity\ConsoleApplication3\ConsoleApplication3.cpp(49,59): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Documents\GitHub\InformSecurity\ConsoleApplication3\ConsoleApplication3.cpp(49,59): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+D:\Documents\GitHub\InformSecurity\ConsoleApplication3\ConsoleApplication3.cpp(104,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> D:\Documents\GitHub\InformSecurity\ConsoleApplication3\Debug\ConsoleApplication3.exe

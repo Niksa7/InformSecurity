@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\Documents\GitHub\InformSecurity\ConsoleApplication1\ConsoleApplication1.cpp(38,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Documents\GitHub\InformSecurity\ConsoleApplication1\ConsoleApplication1.cpp(38,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Documents\GitHub\InformSecurity\ConsoleApplication1\Debug\ConsoleApplication1.exe
